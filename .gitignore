@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.log
+
+# Unrelated local practice
+python_practice.py
